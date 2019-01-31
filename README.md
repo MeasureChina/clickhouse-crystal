@@ -32,7 +32,7 @@ body = [
     columns: %w(uid name date),
     data: [
       [11, "son", "2017-03-01 11:12:13"],
-      [22, "park", Time.now.to_s("%F %X"),
+      [22, "park", Time.now.to_s("%F %X")],
     ],
   },
 ]
